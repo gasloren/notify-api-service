@@ -1,0 +1,8 @@
+_dist/
+node_modules/
+ecosystem.config.js
+connect.sh
+deploy.sh
+.DS_Store
+
+service-account.json
